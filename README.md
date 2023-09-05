@@ -1,3 +1,3 @@
 # Spotify
 
-Spotify Mock-App for trainig 
+Spotify Mock-App for training 
